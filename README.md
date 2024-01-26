@@ -1,2 +1,2 @@
-# Ambika-School
+# OST523
 Where code meets medicine
