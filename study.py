@@ -68,8 +68,8 @@ def study_ost():
         else:
             print("Incorrect | Correct Answer:", test[key], "\n\n")
 
-    print("Grade:", str(total_correct) + "/" + str(len(keys)))
-    print("Percent Correct:", str(int(100 * (total_correct/(len(keys) + 5)))) + "%")
+    print("Grade:", str(total_correct) + "/" + str(len(keys) + 5))
+    print("Percent Correct:", str(round(100 * (total_correct/(len(keys) + 5)), 2)) + "%")
             
 if __name__ == "__main__":
     study_ost()
