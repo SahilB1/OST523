@@ -72,4 +72,13 @@ def study_ost():
     print("Percent Correct:", str(round(100 * (total_correct/(len(keys) + 5)), 2)) + "%")
             
 if __name__ == "__main__":
+    print()
+    print("Welcome to the unofficial OST 523 practice exam ")
+    print("This exam was designed for students in the Michigan State University College of Osteopathic Medicine")
+    print()
+    print("Best of luck!")
+    print("You may now begin your practice exam")
+    print()
+    print("------------------------------------------------------------------------------------------------------------------------")
+    print()
     study_ost()
