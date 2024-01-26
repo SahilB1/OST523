@@ -28,7 +28,7 @@ def study_ost():
         print(key)
         print()
         user_answer = input("Your answer?\t")
-        if user_answer.lower() == test[key].lower():
+        if user_answer.lower().strip() == test[key].lower().strip():
             print("Correct!\n\n")
             total_correct += 1
         else:
