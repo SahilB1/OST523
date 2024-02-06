@@ -1,5 +1,6 @@
 import random
 
+'''
 def L17():
     content = open("L17.txt", "r")
     txt = str(content.read())
@@ -32,9 +33,10 @@ def L17():
         else:
             print("Incorrect | Correct Answer:", test[key], "\n\n")
     return (total_correct, len(keys))
+'''
 
 def study_ost():
-    content = open("input.txt", "r")
+    content = open("questions.txt", "r")
     txt = str(content.read())
     split_txt = txt.split("NEXT")
     
@@ -61,11 +63,13 @@ def study_ost():
         print(key)
         print()
         user_answer = input("Your answer?\t")
+        '''
         if i == len(keys) // 2:
             total_correct_L17, total_questions_L17 = L17()
             total_correct += total_correct_L17
             total_questions += total_questions_L17
-        elif user_answer.lower().strip() == test[key].lower().strip():
+        '''
+        if user_answer.lower().strip() == test[key].lower().strip():
             print("Correct!\n\n")
             total_correct += 1
         else:

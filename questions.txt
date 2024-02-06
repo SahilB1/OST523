@@ -1,0 +1,165 @@
+
+Answers,b,c,b,c,a,c,d
+Self-study II patterned reactions
+1. Following occlusion of a cerebral artery, which of the following changes would occur? A. chronic cell change * B. eosinophilic neurons * C. neurofibrillary tangles * D. schwann cell proliferation
+2. Which of the following is associated with vasogenic cerebral edema? A. intracellular accumulation of excess fluid * B. increased permeability of neuronal membranes * C. increased permeability of capillaries * D. greater swelling in gray matter than in white matter
+3. Which of the following is a reaction to injury involving microglia? A. central chromatolysis * B. neuronophagia * C. gemistocytic change * D. inclusion bodies
+4. Which of the following is the usual reaction to injury in the CNS? A. neuronal inclusion body formation * B. oligodendrocyte proliferation * C. gliosis * D. fibrosis
+5. Which of the following cell types would degenerate in a demyelinating disease affecting only the CNS? A. oligodendrocytes * B. astrocytes * C. neurons * D. schwann cellsE. ependymal cells
+6. Which of the following cell types is most sensitive to decreased oxygen supply? A. oligodendrocytes * B. astrocytes * C. neurons * D. microglia * E. ependymal cells
+7. Which of the following describes changes in the neuronal cell body when the peripheral axon of a motor neuron is cut or damaged? * A. eosinophilic neuron * B. neurofibrillary tangles * C. gemistocytic change * D. central chromatolysis
+NEXT
+Answers,a,d,c,b,a
+Meningitis
+1. A 62-year old male with a history of heavy alcohol use presents to the emergency department with headahce and fever. Lumbar puncture is consistent with meningitis. The MOST LIEKLY pathogen to cause meningitis to the individual is? A. Streptococcus pneumoniae * B. Haemophilus influenza type b * C. Staphylococcus aureus * D. Actineobacter calcoaceticus * E. Neisseria meningitis
+2. A 40-year old male presents with fever, severe headaches, and confusion. He had no major medical history. A work-up including spintal tap confirms he most likely has a bactuerial meningisits. What is the most likely organism to cause this? A. Neisseria meningitidis * B. Group B streptococcus * C. Haemophilus influenzae * D. Streptococcus pneumoniae * E. Listeria monocytogenes
+3. A 30-year old male presents with fever, headaches over the past 2 days. The fever is 101 degress fahrenheit. He has no prior medical history. Physical exam reveals nuchal rigitidy of the neck bu otherwise normal. A spinal tap reveals WBC 100 with 95% lymphocytes. A CSF protein and glucose are normal. What is the most likely etiology of his condition? A. Streptococcus pneumoniar * B. Neisseria meningitidis * C. ECHO virus * D. Mycobacterium tuberculosis * E. Cryptococcus neoformans
+4. A 35-year old male who is HIV positive presents with a week-long episode of progressive headaches and fever of 100.5 degress fahrenheit. The headaches have been worsening. He has no cognitive changes or any other complaints. His HIV disease is not controlled and his last T-cell count 3 weeks ago was 150 cell (500-1750 cells). Physical exam reveaks some nuchal rigitidy, but otherwise normal exam. CT scan of the head was normal. Lumbar puncture reveals a protein elevated, a glucose decreased and a WBC of 300 with 90% lymphocytes. Gram stain was negative, but another stain revealed a budding yeast. What is the most likely diagnosis? A. Candida albicans meningitis * B. Cryptococcus neoformans meningitis * C. Histoplasma capsulatum meningitis * D. Coccidioidomycosis meningitis * E. Aspergillus fumigatus meningitis
+5. A 35-year old presents to the ER with confusion, disorientation per his family over the last 12 hours. The family states he complained of a severe headache 2 days ago and was also noted to have a fever of 102 degress fahrenheit. He stated the headaches were worsening over the past day with associated nausea and vomitting. He has no prior medical history. On exam, he is confused and disoriented to person, place, and time. he moves all 4 extremities. He has severr nuchal rigidity. On ophthalmology exam, he has possible papilledema bilaterally. What is the next test to perform? A. CT scan of the head * B. EEG * C. Lumbar puncture * D. Cerebral angiogram * E. CBC, blood cultures
+NEXT
+Answers,d,c,a,b,a,a,c,a,d,a,b
+Toxic/nutritional & acquired metabolic disorders
+1. Which of the following is true concerning effects of lead poisoning in the CNS? A. more common in adults that children * B. major effects involve degeneration of astrocytes * C. clinical signs include distal weakness * D. lesions occur in cerebral and cerebellar cortex
+2. Necrosis in which of the following locations would be most prominent in a case of carbon monoxide poisoning? A. amygdala * B. cerebellar peduncles * C. globus pallidus * D. midbrain red nucleus * E. white matter
+3. A 32‐year‐old woman presented with loss of position and vibratory sensation in both lower extremities. She also had increased deep tendon reflexes and Babinski signs. MRI shows demyelination along the dorsal columns of the spinal cord. CT revealed mild cerebral atrophy which explained the cognitive decline and neuropsychiatric dysfunction. She is a vegetarian. What else would you expect to find abnormal in this patient? A. pernicious anemia * B. ophthalmoplegia * C. ataxia * D. elevated glutamine in the brain
+4. A 56‐year‐old woman presented with a 4‐month history of progressive cognitive decline,weakness, incoordination and gait disturbance. She had a score of 12 on the MMSE (Mini‐Mental State Exam), moderate weakness, and severe ataxia. Reflexes, vibratory sensation, and position sense were absent throughout her arms and legs. Administration of which of the following is most likely to cause improvement? A. vitamin B12 * B. vitamin B1 * C. vitamin E * D. copper chelator
+5. Wernicke's encephalopathy is due to which of the following? A. thiamine deficiency * B. deficiency of enzyme to degrade phytanic acid * C. elevated ammonia in the blood * D. lipid accumulation in neurons
+6. Which of the following pathological conditions is characteristic of Wernicke's encephalopathy? A. petechial hemorrhages in mammillary bodies * B. neuronal loss in substantia nigra * C. neuronal damage in cerebral cortex * D. macrophage response and gliosis in caudate nucleus
+7. In Wernicke‐Korsakoff syndrome, lesions are expected in which of the following locations? A. cerebral cortex in the frontal and temporal lobes * B. basal ganglia, especially putamen * C. periaqueductal gray matter including 3rd nerve nuclei * D. anterior horns
+8. The symmetrical lesions seen in subacute combined degeneration are expected most consistently in which of the following locations? A. posterior and lateral columns of spinal cord * B. hypothalamus * C. anterior horn cells * D. vestibular nuclei
+9. Hepatic encephalopathy is associated with which of the following? A. sensory deficits in extremities * B. laminar necrosis of neurons in cerebral cortex * C. untreated diabetes mellitus * D. elevated ammonia levels
+10. A 61‐year‐man with a history of alcoholism was found wandering on the street on a cold night. At the hospital he did not know why he was out or where he lived. A brief neurological exam showed impairment of medial gaze in both eyes, nystagmus and ataxia. Which of the following would bemost likely to show bilateral pathological changes? A. mammillary bodies * B. medullary pyramids C. caudate nucleus D. subthalamic nucleus
+11. Which of the following mechanisms is involved in detoxication of elevated ammonia levels in brain tissue? A. production of urea from ammonia in astrocytes * B. synthesis of glutamine from glutamate and ammonia in astrocytes * C. synthesis of glutamate from ammonia and glucose in neurons * D. production of NMDA from ammonia in neurons
+NEXT
+Answers,d,c,d,b,c
+Viral Infections in which CNS Manifestations Dominate
+1. An 8 week old infant presents with fever, bulging fontanelle and irritability. A spinal tap confirms an elevated CSF WBC count with predominantly mononuclear cells. The baby’s 5 year old sibling was just diagnosed with hand foot and mouth disease. Given the above information, you suspect which of the following viral agents as the most likely cause of hersymptoms? a. Herpes Simplex * b. West Nile Virus * c. Adenovirus * d. Enterovirus
+2. A child presents to the emergency room with acute onset of left leg paralysis. A culture of her stool and throat confirms the diagnosis. How could this infection have been prevented? a. Acyclovir * b. Immunoglobulin * c. Polio Vaccination * d. Rabies Vaccination
+3. A 15 year old male presents with fever, mental status changes, and seizure activity7. An MRI shows temporal lobe involvement. What is the likely cause of these findings? a. Rabies * b. Polio * c. Enterovirus * d. Herpes Simplex Virus
+4. A 5 year old was bitten by a bat. How would you treat thepatient? a. Capture the bat and isolate for 10 days/no treatment for the child unless the bat has symptoms * b. Administer Rabies vaccine and Immune Globulin * c. Administer Rabies vaccine only * d. Administer Rabies Immune Globulin only
+5. A 10 year old presents to the ER in August with headache, fever, and neck stiffness. You perform a thorough history and physical examination. The patient has meningeal signs but no focal neurologic deficits. A history of camping 5 days earlier is elicited and you see multiple mosquito bites on the child’s legs. Which of the following tests is the best for confirming West Nile Virus infection? a. Viral Culture of CSF * b. Viral Culture of Blood * c. Serology of serum and CSF * d. PCR in CSF
+NEXT
+Answers,d,d,a,b,a
+Increased ICP and Herniation
+1. A comatose patient had a diagnosis of intracerebral hemorrhage. The patient was noted to show hyperventilation. When a noxious stimulus was applied, both arms and legs were extended. Pupils were midposition and fixed. You have evidence for direct compression of which of the following? a. Corpus callosum * b. Medulla * c. Cerebellar tonsils * d. Midbrain
+2. Displacement of the uncus across the tentorium compresses which of the following structures? a. Pons and CN V * b. Pons and CN VII * c. Midbrain and CN VI * d. Midbrain and CN III
+3. Which of the following is associated with herniation of the uncus? a. Compression of the posterior cerebral artery * b. Compression of the anterior cerebral artery * c. Compression of CN VI * d. Hemorrhages in the cerebellum
+4. Manifestations of uncal herniation include which of the following? a. Sensory deficits * b. Dilated pupil * c. Constricted pupil * d. Monocular blindness
+5. Which of the following is caused by stenosis of the cerebral aqueduct? a. Obstructive noncommunicating hydrocephalus * b. Obstructive communicating hydrocephalus * c. Enlargement of the fourth ventricle * d. Increased production of CSF
+NEXT
+Answers,d,b,d,a,c,d,c
+Cerebrovascular Disease I & II
+1. A 37-year-old male presents with a right sided headache and an episode of transient visual loss of the right eye. He has anterior neck pain on the right as well. He was involved in a car accident yesterday. On exam you find right miosis and 2 mm of ptosis. The most likely diagnosis is? a. Vertebral artery dissection * b. Basilar artery occlusion * c. Posterior cerebral artery TIA * d. Carotid artery dissection * e. Complicated migraine
+2. Match the vascular distribution with the appropriate clinical symptoms - Anterior cerebral artery? a. Homonymous hemianopia * b. Lower extremity weakness * c. Diplopia, dysarthria, disequilibrium * d. Upper extremity > lower extremity weakness
+3. Match the vascular distribution with the appropriate clinical symptoms - Middle cerebral artery? a. Homonymous hemianopia * b. Lower extremity weakness * c. Diplopia, dysarthria, disequilibrium * d. Upper extremity > lower extremity weakness
+4. Match the vascular distribution with the appropriate clinical symptoms - Posterior cerebral artery? a. Homonymous hemianopia * b. Lower extremity weakness * c. Diplopia, dysarthria, disequilibrium * d. Upper extremity > lower extremity weakness
+5. Match the vascular distribution with the appropriate clinical symptoms - Vertebro-basilar? a. Homonymous hemianopia * b. Lower extremity weakness * c. Diplopia, dysarthria, disequilibrium * d. Upper extremity > lower extremity weakness
+6. A 76-year-old male presents with the acute onset of right hemiparesis, right hemi-sensory loss and aphasia. His blood pressure is 230/110. The most appropriate initial step is to? a. Administer TPA for presumed ischemic stroke * b. Administer medication to reduce his blood pressure * c. Anticoagulate for presumed embolic event * d. Perform a CT scan of his head * e. Supportive treatment, avoiding reduction in blood pressure to avoid a watershed infarct
+7. The most important risk factor in determining stroke risk is? a. Family history * b. Atrial fibrillation * c. Hypertension * d. Diabetes * e. Tobacco abuse
+NEXT
+Answers,e,d,a
+CEREBROVASCULAR DISEASE AND ARTERIOSCLEROSIS
+1. A previously healthy 31-year-old female experiences a sudden severe headache and loses consciousness within an hour. An emergent head CT scan reveals extensive subarachnoid hemorrhage at the base of the brain. She is afebrile. A lumbar puncture yields cerebrospinal fluid with many red blood cells, but no white blood cells. The CSF protein is slightly increased, but the glucose is normal. Which of the following is the most likely diagnosis? A. acute bacterial meningitis * B. hemorrhagic stroke/infarct of the basal ganglia * C. internal carotid artery occlusion * D. lacunar infarct of the basal ganglia * E. ruptured berry aneurysm
+2. A 61-year-old male presents with a recent onset of unilateral facial and upper arm weakness. He describes the weakness episode as single, and lasting only 3-4 minutes. His past medical history is significant for bilateral leg weakness that is worse when he takes his daily walks, and he states that his primary care physician told him he has poor circulation in his legs. Which of the following is the most likely underlying condition occurring in this patient? A. dementia, early onset * B. bacterialmeningitis * C. diabeticarteriopathy * D. systemic atherosclerosis * E. systemic hypertension
+3. On a pre-employment physical exam, a 52-year-old obese male was found to have severe, but asymptomatic, systemic atherosclerotic vascular disease. At this point, you should be most concerned with the development of which of the following complications? A. coronary artery occlusion from superimposed thrombus * B. infarct of the kidney from an atheromatous embolus (an atheroemboli) * C. ischemic atrophy of the leg muscles * D. ruptured berry aneurysm * E. acute renal failure
+NEXT
+Answers,d,a,b,d,a
+Cerebrovascular Disease Imaging
+1. The most sensitive MR sequence in assessing stroke? a. T1 * b. T2 * c. GRE * d. DWI
+2. CT advantage in suspected stroke? a. Rapid scan time * b. Sensitive to infarctions * c. Sensitive to petechial hemorrhage * d. No ionizing radiation
+3. Contrast CT is necessary in all patients with suspected stroke? a. True * b. False
+4. Hemorrhagic infarction? a. Common * b. Cannot be seen on CT * c. Must use intravenous contrast to identify * d. Excludes the patient from anticoagulant therapy
+5. CT findings of acute stroke frequently shows? a. Normal * b. Bleed * c. Midline shift * d. Hyperdense basilar artery
+NEXT
+Answers,a,a
+Multiple Sclerosis
+1. Most patients with Multiple Sclerosis are categorized as? a. Relapsing/remitting * b. Chronic progressive * c. Acute * d. Primary progressive * e. Peripheral
+2. The MOST appropriate treatment of an acute Multiple Sclerosis exacerbation is? a. Steroids, usually given IV * b. Interferon * c. Chemotherapeutic agents * d. Bed rest * e. Mega‐dose vitamin therapy
+NEXT
+Answers,d,a,b,b
+Demyelinating Disorders (Pathology)
+1. A 29-year-old woman developed pain in her eyes and visual difficulties, which resolved over a period of months. Nine months later she started having balance problems, clumsiness, hand weakness and fatigue. CSF analysis showed elevated gamma globulin and oligo clonal bands were present after electrophoresis. Which of the following is the most likely diagnosis? A. Guillain-Barre syndrome * B. Progressive multifocal leukoencephalopathy * C. Acute disseminated encephalomyelitis * D. Multiple sclerosis
+2. Which of the following best describes the pathological changes in multiple sclerosis? A. Sharply delineated areas of demyelination * B. Diffuse regions showing loss of axons, myelin sheaths and astrocytes * C. Loss of astrocytes in cortical areas * D. Demyelination of peripheral nerves
+3. A 32-year-old woman developed pain in her right eye which resolved in a few weeks. Nine months later she started having difficulty reading and blurred vision. On voluntary eye movement to the right, her left eye did not adduct. On voluntary eye movement to the left, her right eye did not adduct. Both eyes adducted when convergence was tested. There were no other abnormalities. Which of the following is most likely in this patient? A. Demyelination of the medial lemniscus * B. Demyelination of the medial longitudinal fasciculus * C. Bilateral degeneration of the abducens nucleus * D. Bilateral demyelination of trochlear nerve
+4. The histological appearance of an acute MS lesion is mostly characterized by which of the following? A. Prominent glial proliferation with scar formation * B. Loss of myelin, perivascular inflammation * C. Extensive loss of axons * D. Absence of re-myelination
+NEXT
+Answers,d,a,b
+Coma
+2. The corneal reflex tests? a. Sensory function of CN3 and motor of CN5 * b. Sensory function of CN7 and motor of CN5 * c. Sensory function of CN2 and motor of CN7 * d. Sensory function of CN5 and motor of CN7
+3. A 75-year-old male presents in coma secondary to hepatic failure. What is the most likely pupillary finding? a. Normally reactive pupils * b. Pinpoint and reactive * c. Mid-position and fixed * d. Irregular and reactive
+4. Which of the following may still be present in a brain dead patient? a. Pupillary response * b. Deep tendon reflexes * c. Spontaneous respirations * d. Withdrawal from painful stimuli * e. Oculocephalic response
+NEXT
+Answers,c,c,b,d,d
+Seizures
+1. A patient who is 6 months old has had a febrile seizure and is presenting with his mother to your preceptors office after being seen in the emergency department. She asks you if any of the following characteristics described will result in a higher likihood of epilepsy as her child ages? A. The event lasted less than 15 minutes * B. The event occurred only once * C. The event was described as initially having rigid left arm extension * D. The event was described as only generalized convulsing
+2. Which of the follow would not be consider a structure etiology for epilepsy? A. Historical Ischemic Stroke * B. Historical Severe Traumatic Brain Injury * C. Historical Encephalitis * D. Historical Perinatal Hypoxic Ischemic Injury
+3. True or False, two provoked seizures greater than 24 hours apart would result in the diagnosis of epilepsy? A. true * B. false
+4. A patient presents to your office after a tonic clonic or “grand-mal” seizure. In your historical work up he reveals that prior to secondary generalization of the seizures he complained of non-formed circles of colored light in the right hemisphere of his vision. It is likely that his seizures began? A. Focal, temporal * B. Generalized * C. Focal, frontal * D. Focal, occipital
+5. The correct definition of seizure is which of the following? A. Normal, hyposynchronous, rhythmic neuronal firing that may or may not lead to discrete clinical manifestations * B. Normal, hypersynchronous, rhythmic neuronal firing that may or may not lead to discrete clinical manifestations * C. Abnormal, hypersynchronous, rhythmic neuronal firing that leads to discrete clinical manifestations * D. Abnormal, hypersynchronous, rhythmic neuronal firing that may or may not lead to discrete clinical manifestations * E. Abnormal, hyposynchronous, rhythmic neuronal firing that may or may not lead to discrete clinical manifestations
+NEXT
+Answers,b,a,c,d,c
+Pharmacology of Antiseizure Medication
+1. A 7-year-old patient presents with recurrent episodes of bland staring that occurs multiple times per day and is provoked with hyperventilation. You diagnosed the patient with childhood absent epilepsy. The most appropriate medication to start for the patient is? A. Carbamazepine * B. Ethosuximide * C. Oxcarbazepine * D. Gabapentin
+2. All of the following medications have a risk of Steven Johnson syndrome except for? A. Levetiracetam * B. Carbamazepine * C. Oxcarbazepine * D. Lamotrigine
+3. A patient presents to your office with a new diagnosis of focal epilepsy. You would like to begin him on a medication. He does have a history significant for heart attack with resultant congestive heart failure. Avoiding which of the following medications would be appropriate? A. Levetiracetam * B. Lamotrigine * C. Lacosamide * D. Topiramate
+4. A patient presents to your office with a new diagnosis of focal epilepsy. He would like to begin him on a medication. He does have a history significant for recurrent kidney stones. Avoiding which of the following medications would be appropriate? A. Levetiracetam * B. Lamotrigine * C. Lacosamide * D. Topiramate
+5. Which of the following association of medication to mechanism of action is correct? A. Lamotrigine- SV2A inhibitor * B. Lacosamide- blocks fast inactivated voltage gated sodium channels * C. Ethosuximide- inhibits post synaptic T-type calcium channels * D. Phenytoin- blocks slow inactivated voltage gated sodium channels
+NEXT
+Answers,b,c,d,b,b,c,b,c,d,c,d
+Head and Spinal Cord Trauma Pathology
+1. A 62-year old alcoholic staggers out of a bar, slips, and falls backward, striking his occiput. At the Emergency Department an occipital scalp laceration is sutured. Several years later the patient succumbs to alcoholic liver disease. The brownish-yellow staining overlying sunken, firm brain tissue at the frontal poles noted at autopsy is an example of? A. chronic subdural hematoma * B. contrecoup contusion * C. diffuse axonal injury * D. coup contusion
+2. Which of the following is characteristic of chronic traumatic encephalopathy? A. decreased activity of the nigrostriatal pathway * B. accumulation of alpha-synuclein protein * C. accumulation of tau protein * D. increased dopamine release in the nucleus accumbens
+3. The tearing of bridging veins results in? A. intracerebral hemorrhage * B. epidural hematoma * C. subarachnoid hemorrhage * D. subdural hematoma
+4. A 22-year-old man watching a baseball game was hit on the side of the head by a wild throw. He lost consciousness and then tried to sit up after a few minutes. On the way to the hospital, he became confused and drowsy, and again lost consciousness. Skull x-ray showed a fracture. Which of the following is most likely responsible for his present coma? A. subdural hematoma * B. epidural hematoma * C. subarachnoid hemorrhage * D. intracerebral hemorrhage
+5. A patient presented with difficulty walking. Examination showed loss of vibration and proprioception in both legs, and a positive Romberg sign. There were no other deficits. Which of the following would be associated with this presentation? A. Anterior spinal cord syndrome * B. Posterior spinal cord syndrome * C. Cauda equina syndrome * D. Brown-Sequard syndrome
+6. There may be an interval of several weeks or even months between the trauma and the appearance of symptoms in? A. subarachnoid hemorrhage * B. intracerebral hemorrhage * C. subdural hemorrhage * D. epidural hemorrhage
+7. A local superficial bruising of gyri produced by rotation against rough bones of the skull is called? A. laceration * B. contusion * C. hematoma * D. concussion
+8. A 42-year-old unbelted driver was thrown from her car after she fell asleep and drove into a ditch. She was unconscious at the scene of the accident and was pronounced dead 30 minutes later at a local hospital. At autopsy, no lesions were seen on the surface of the brain. The most likely mechanism of brain injury in this patient is? A. subdural hematoma * B. spontaneous intracerebral hemorrhage * C. diffuse axonal injury * D. contusion
+9. Transection of the thoracic spinal cord is followed by? A. Wallerian degeneration of spinothalamic tracts below the level of the lesion * B. Wallerian degeneration of corticospinal tracts above the level of the lesion * C. Wallerian degeneration of the medial lemniscus above the level of the lesion * D. Wallerian degeneration of the posterior columns above the level of the lesion
+10. A 27-year-old man was in an automobile accident, and had abrasions on his head in several locations, as well as other injuries. He lost consciousness immediately after the collision, but regained consciousness when the paramedics reached him. He did not remember what happened during the accident. At the hospital, head CT scan performed about 1 hour after the collision was unremarkable. The patient appeared stable for 2 days, and then became confused and lethargic, and could not be aroused. Which of the following is the most likely cause of the neurological manifestations after 2 days? A. concussion * B. contusions * C. subdural hematoma * D. epidural hematoma
+11. A 69-year-old woman has become confused and forgetful over the past few months. She also has noted mild weakness in her right hand. CT scan showed a mass with characteristics of a chronic bleed. Which of the following is the most likely source of the blood? A. middle cerebral artery * B. superior sagittal sinus * C. middle meningeal artery * D. bridging veins
+NEXT
+Answers,d,c,b,a,d,d
+Imaging of Head Trauma
+1. intravenous contrast is not administered to the post traumatic patient with head injury because? a. too costly * b. chance of allergic reaction * c. patient must be coherent prior to administration * d. contrast can obscure small hemorrhages
+2. A patient involved in an MVA with head trauma and scalp hematoma first imaging choice should be? a. Skull x-ray * b. Ultrasound * c. CT without contrast * d. MRI
+3. Epidural hematomas? a. Very common * b. Usually due to rupture of artery * c. Typically occur spontaneously * d. Almost always seen in the posterior fossa
+4. Diffuse Axonal injury? a. Seen at grey white matter junction * b. Never involves the pons * c. CT is always abnormal * d. Axons completely rupture
+5. Subdural hematoma? a. Lens shape * b. Always need immediate neurosurgical intervention * c. Are seen as hyperdense crescent fluid collection when chronic * d. Are extra-axial in location
+6. MRI in the post traumatic patient is performed? a. Only when CT is negative * b. Only when the CT is positive * c. To only assess for the age of the hemorrhage * d. To assess for other areas of brain injury
+NEXT
+Answers,b,d,a
+Head Trauma Clinical Concussion
+1. A 14 year old male is playing football and is tackled, suffering helmet to helmet contact. He does not lose consciousness, but is slow to get up off the ground. Which of the following is the most appropriate course of action? a. Transport him to the hospital for urgent CT of the head * b. Perform a sideline evaluation to assess the severity of his symptoms * c. Remove him from play for 2 weeks * d. Have him perform sideline exercises to assess for occurrence of HA or weakness
+2. Which of the following neurotransmitters is thought to play a major role in the neurometabolic cascade of concussion? a. Sodium * b. Chloride * c. GABA * d. Glutamate
+3. Which of the following is the most common finding in imaging of an individual that has suffered a concussion? a. Normal imaging * b. Subdural hematoma * c. Diffuse axonal injury * d. Non-specific white matter changes * e. Brain contusion
+NEXT
+Answers,a,b,b,d,a,c,c,a
+CNS Neoplasms
+1. In children, brain tumors are most often found in the? A. posterior fossa * B. cerebrum * C. cortex * D. medulla
+2. A 9‐year‐old boy was diagnosed with a tumor in the posterior fossa. On MRI, the tumor had the appearance of cystic lesion with a mural nodule of tumor. The most likely tumor type is? A. medulloblastoma * B. pilocytic astrocytoma * C. ependymoma * D. retinoblastoma
+3. A 2‐year‐old girl started losing the ability to walk and balance. MRI showed a tumor in the cerebellar midline. Lumbar puncture was performed and analysis showed tumor cells in the CSF. Of the following, what is the most likely diagnosis? A. astrocytoma * B. medulloblastoma * C. ependymoma * D. retinoblastoma
+4. Which of the following neoplasms arises in the eye, sometimes bilaterally with extension along the optic nerve? A. astrocytoma * B. neuroblastoma * C. ependymoma * D. retinoblastoma
+5. Which of the following neoplasms is often parasagittal and is usually attached to the dura? A. meningioma * B. oligodendroglioma * C. neuroblastoma * D. astrocytoma
+6. Which of the following neoplasms arises from the lining of the floor or the roof of the fourth ventricle and may extend out the foramina of Luschka into the cerebellopontine angle? A. astrocytoma * B. medulloblastoma * C. ependymoma * D. neuroblastoma
+7. Astrocytomas are of? A. ependymal origin * B. meningeal origin * C. glial cell origin * D. vascular origin
+8. After resection, a neoplasm was described as nodular and firm. Several patterns with whorls or sheets of cells with or without psammoma bodies were seen microscopically. Which of the following is the pathological diagnosis? A. meningioma * B. oligodendroglioma * C. neuroblastoma * D. astrocytoma
+NEXT
+Answers,d,c,d,b,b,b
+CNS Neoplasm Imaging
+1. Which imaging modality is best at assessing brain neoplasm? a. CT without contrast * b. CT with contrast * c. MRI without contrast * d. MRIwithcontrast
+2. Which one of the following is most important in assessing brain tumors? a. Size * b. Enhancement characteristics * c. Location * d. Presence of blood
+3. Which one is extra-axial? a. GBM * b. Astrocytoma * c. Ependymoma * d. Meningioma
+4. Which one is the most common primary tumor of the cerebellu? a. Metastasis * b. Hemanagioblastoma * c. GBM * d. Meningioma
+5. Schwannomas involve the? a. Brainstem * b. Crainialnerves * c. Ventricles * d. Cerebellum
+6. A non-enhancing neoplasm might include? a. GBM * b. Low grade astrocytoma * c. Meningioma * d. Schwannoma
+NEXT
+Answers,b,c,a,d,c,c,c
+SS5
+1. Where do primary pain afferent neurons from the body make the first synapse? A. Dorsal root ganglion * B. Spinal cord dorsal horn * C. Thalamus * D. Spinal cord ventral horn
+2. Which of the following neurotransmitters is synthesized by interneurons in the dorsal horn and has a major role in the processing of pain information? A. histamine * B. acetylcholine * C. enkephalin * D. morphine
+3. Which of the following structures is part of a major descending pathway that can modulate pain processing in the dorsal horn? A. midbrain periaqueductal gray * B. substantia nigra * C. red nucleus * D. globus pallidus
+4. Which of the following is part of an ascending pain pathway that is involved in affective-motivational aspects of pain perception from the body? A. lateral geniculate nucleus * B. hypoglossal nucleus * C. trochlear nucleus * D. parabrachial nucleus
+5. Which of the following contains a pathway that carries information about visceral pain in the kidney? A. ventral columns of spinal cord * B. medial longitudinal fasciculus * C. midline dorsal columns of spinal cord * D. accessory nerve
+6. All of the following modulate pain transmission in the dorsal horn of the spinal cord EXCEPT? A. serotonin * B. norepinephrine * C. bradykinin * D. endogenous opioids * E. endocannabinoids
+7. A patient has chronic pain in the back of the head and behind the ears. Which of the following is the most likely cause? A. compression of trigeminal nerve * B. compression of glossopharyngeal nerve * C. compression of occipital nerves * D. compression of facial nerve
